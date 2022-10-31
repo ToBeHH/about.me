@@ -2,35 +2,35 @@ theme: minima
 
 minima:
   skin: solarized
-  author:
-    name: Tobias Schulz-Hess
-    email: "github.page@schulz-hess.de"
-  social_links:
-    twitter: ToBe_HH
-    github: tobehh
-    stackoverflow: "tobe-hh"
-    # dribbble: jekyll
-    # facebook: jekyll
-    # flickr: jekyll
-    instagram: schulzhess
-    linkedin: schulz-hess
-    # pinterest: jekyll
-    # telegram: jekyll
-    # microdotblog: jekyll
-    # keybase: jekyll
+author:
+  name: Tobias Schulz-Hess
+  # email: "github.page@schulz-hess.de"
+social_links:
+  twitter: ToBe_HH
+  github: tobehh
+  stackoverflow: "tobe-hh"
+  # dribbble: jekyll
+  # facebook: jekyll
+  # flickr: jekyll
+  instagram: schulzhess
+  linkedin: schulz-hess
+  # pinterest: jekyll
+  # telegram: jekyll
+  # microdotblog: jekyll
+  # keybase: jekyll
 
-    mastodon:
-     - username: ToBe_HH
-       instance: norden.social
-     # - username: jekyll2
-     #  instance: example.com
-
-    #gitlab:
-    # - username: jekyll
-    #   instance: example.com
+  mastodon:
+    - username: ToBe_HH
+      instance: norden.social
     # - username: jekyll2
-    #   instance: example.com
+    #  instance: example.com
 
-    youtube: Tobias Schulz-Hess
-    youtube_channel: UCbtMFRDhXJy5ThobWxt3Ogw
-    youtube_channel_name: Tobias Schulz-Hess
+  #gitlab:
+  # - username: jekyll
+  #   instance: example.com
+  # - username: jekyll2
+  #   instance: example.com
+
+  # youtube: Tobias Schulz-Hess
+  youtube_channel: UCbtMFRDhXJy5ThobWxt3Ogw
+  youtube_channel_name: Tobias Schulz-Hess
