@@ -1,3 +1,7 @@
+
+author:
+  name: Tobias Schulz-Hess
+markdown: kramdown
 theme: minima
 
 minima:
@@ -18,3 +22,14 @@ minima:
   skin: solarized
 twitter:
   username: ToBe_HH
+
+# 2.5.1 minima schema:
+twitter_username: ToBe_HH
+github_username: tobehh
+stackoverflow_username: "tobe-hh"
+instagram_username: schulzhess
+linkedin_username: schulzhess
+
+mastodon:
+  - username: ToBe_HH
+    instance: norden.social
