@@ -276,7 +276,7 @@ I like traveling a lot. I have been to more than 50 countries now. The rate of e
 
 I run half marathons. Sometimes I run around the Alster lake during lunchtime. You're welcome to join me on that. I don't run fast (around 7 minutes/km), I run for fun.
 
-I do a lot of photography. However, I hardly use my DSLR anymore and do mostly all my photos with my mobile phone (which I choose by the camera quality). I publish my photos on [https://www.instagram.com/schulzhess/](Instagram).
+I do a lot of photography. However, I hardly use my DSLR anymore and do mostly all my photos with my mobile phone (which I choose by the camera quality). I publish my photos on [Instagram](https://www.instagram.com/schulzhess/).
 
 # caveat
 
