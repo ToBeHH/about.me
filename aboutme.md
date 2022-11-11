@@ -184,7 +184,7 @@ If you want to give direct feedback but aren't sure how or aren't comfortable do
 ## measure
 I strongly believe in the sentence "you can only change what you can measure" (by Peter Drucker). I tried measuring my leadership quality but was not successful with it. Currently, I am applying the [4 key metrics](https://tobehh.github.io/talks/4%20key%20metrics/dist/presentation.html) framework for my team with quite some success.
 
-I am also trying to measure the time I am working productively, inspired by [this article](http://hackthesystem.com/blog/why-i-hired-a-girl-on-craigslist-to-slap-me-in-the-face-and-why-it-quadrupled-my-productivity/). I use RescueTime for this.
+I am also trying to measure the time I am working productively, inspired by [this article](https://www.dailymail.co.uk/news/article-2219484/Computer-programmer-quadruples-productivity-hiring-woman-slap-face-time-catches-looking-Facebook.html). I use RescueTime for this.
 
 ## doing work
 I am following the Getting Things Done (GTD) method to handle all of my tasks. This involves setting goals for myself and following up on them.
@@ -282,4 +282,4 @@ I do a lot of photography. However, I hardly use my DSLR anymore and do mostly a
 
 Take this document with a grain of salt: I wrote it! I have never experienced having myself as a manager. If I'm your TL and something here seems off, open a pull request or issue, or (probably more comfortably) bring it up to me in one-on-one or over Teams.
 
-While writing, I was inspired by some great ideas from [https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe]() and the readmes, which are linked there. Some sentences are copied but still are my own view.
+While writing, I was inspired by some great ideas from [https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe) and the readmes, which are linked there. Some sentences are copied but still are my own view.
