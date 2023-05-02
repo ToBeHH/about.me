@@ -7,7 +7,7 @@ This document is intended to give you a clear understanding of me, what my value
 This document only applies to me and in no way should be considered to apply to any other team or manager. 
 
 # biographic facts
-I was born in December 1973 in a town called [Bamberg](https://en.wikipedia.org/wiki/Bamberg), which actually is very beautiful and makes me being at life level 0x30 (or for non-tech people: 48). My family runs a company there since 1677 (for 10 generations) which is now run by my brother. The company is in the beer industry, that's why I am pretty interested in beer culture (in addition to drinking it).
+I was born in December 1973 in a town called [Bamberg](https://en.wikipedia.org/wiki/Bamberg), which actually is very beautiful and makes me being at life level 0x31 (or for non-tech people: 49). My family runs a company there since 1677 (for 10 generations) which is now run by my brother. The company is in the beer industry, that's why I am pretty interested in beer culture (in addition to drinking it).
 
 After finishing Gymnasium (high school)  I immediately moved to [Karlsruhe](https://en.wikipedia.org/wiki/Karlsruhe) to study computer science. I am pretty proud that I actually got myself a place at that university before I finished my Abitur (high school final exams). Back then Karlsruhe used (and still is) one of the best universities in Germany to study computer science and put a strong focus on mathematics (I actually studied together with the mathematicians), algorithms and theories. 
 
