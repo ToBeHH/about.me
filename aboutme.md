@@ -127,9 +127,9 @@ And how can I accomplish that vision? I can do that, by being aware myself of yo
 ## one on ones (1:1)
 The most important meeting will be our 1:1s. This is a regular meeting between just you and me. Length, frequency, format, and content are up to you. We’ll start with 30 minutes and then adjust from there.
 
-What is really important for me: **the 1:1 is no status update meeting**. [In the end, it is your meeting! (Follow this link to read more about it.)](https://fellow.app/blog/2020/one-on-one-meetings-with-manager/) You set the agenda. Stuff you may want to talk about is: 
+What is really important for me: **the 1:1 is no status update meeting**. [In the end, it is your meeting! (Follow this link to read more about it.)](https://fellow.app/blog/meetings/one-on-ones-with-your-manager/) You set the agenda. Stuff you may want to talk about is: 
 
-* Discuss this week, what went good for you, and what did not. How did you feel about it? How do you feel about our team and your teammates?
+* Discuss this week, what went well for you, and what did not. How did you feel about it? How do you feel about our team and your teammates?
 * Are there some action items left from the last meeting?
 * What is blocking you now (for your daily work) or in the future (for your career)?
 * What are your goals short-term (until the next 1:1) and long-term? Has anything changed?
@@ -157,7 +157,7 @@ Feedback works in both directions.
 
 Giving feedback to you is one of my key things to do. You only can grow, if I give you feedback. If the feedback is supposed to be constructive, I try to frame the feedback. However since we humans tend to see more criticism than positive things, you occasionally might feel bad when getting that kind of constructive feedback. First I encourage you to talk with me about that feeling. Second let me assure you, that I don't want to bring you down. We all make mistakes (me included) and my only intention is to give you guidance to learn from that mistake. I do see the good in you and while we are not all good or all bad (although we want to be and movies try to make us believe that) I still believe in your values, even if it does not feel for you like that in that very moment.
 
-As said, feedback has two directions and I am happy to receive feedback. I realize, that feedback is not always positive and I will frame that accordingly for myself. I strongly encourage you to give feedback to me. If I get too little feedback, I might even ask for it. Remember, I can only change my behavior if I receive feedback. If you are not happy with something I do, I won't change it unless I get some feedback. However, please try to give me feedback in a humble way - I will try to do the same.
+As said, feedback has two directions and I am happy to receive feedback. I realize that feedback is not always positive and I will frame that accordingly for myself. I strongly encourage you to give feedback to me. If I get too little feedback, I might even ask for it. Remember, I can only change my behavior if I receive feedback. If you are not happy with something I do, I won't change it unless I get some feedback. However, please try to give me feedback in a humble way - I will try to do the same.
 
 Remember, that feedback does not need to be criticism. I would love to hear, what you want me to keep doing. Or what I already do, but could still improve. Even if you think it might not be the case, I do want to hear it. And if you think I don't want to hear it, I'd love to hear why you feel that way.
 
