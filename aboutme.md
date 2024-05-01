@@ -7,7 +7,7 @@ This document is intended to give you a clear understanding of me, what my value
 This document only applies to me and in no way should be considered to apply to any other team or manager. 
 
 # biographic facts
-I was born in December 1973 in a town called [Bamberg](https://en.wikipedia.org/wiki/Bamberg), which actually is very beautiful and makes me being at life level 0x31 (or for non-tech people: 49). My family runs a company there since 1677 (for 10 generations) which is now run by my brother. The company is in the beer industry, that's why I am pretty interested in beer culture (in addition to drinking it).
+I was born in December 1973 in a town called [Bamberg](https://en.wikipedia.org/wiki/Bamberg), which actually is very beautiful and makes me being at life level 0x32 (or for non-tech people: 50). My family runs a company there since 1677 (for 10 generations) which is now run by my brother. The company is in the beer industry, that's why I am pretty interested in beer culture (in addition to drinking it).
 
 After finishing Gymnasium (high school)  I immediately moved to [Karlsruhe](https://en.wikipedia.org/wiki/Karlsruhe) to study computer science. I am pretty proud that I actually got myself a place at that university before I finished my Abitur (high school final exams). Back then Karlsruhe used (and still is) one of the best universities in Germany to study computer science and put a strong focus on mathematics (I actually studied together with the mathematicians), algorithms and theories. 
 
@@ -24,9 +24,9 @@ As my second child was born I took a one-year parental leave. During that time I
 
 In February 2018 I joined XING as a team lead for the Spiderman team, aka ProBusiness in the blue business unit. Since 2019 I additionally lead the ProJobs team, which was created newly (or: re-created) and my main job is to ramp up the team. In 2020 the ProJobs team was merged with the Spiderman team into the ProDucks team. In 2021, management decided to re-create ProJobs and put a completely new team on it, leaving me with ProBusiness product only. In 2022 also the ProBusiness product was discontinued. My team then created the company culture assessment, a nice tool where you can configure your ideal company culture and XING finds matching companies for you (using the data from Kununu). However, this breaking point was for me a sign to move on.
 
-So end of 2022 I started a new career as an Engineering Manager at the International University, the biggest private university in Germany.
+So end of 2022 I started a new career as an Engineering Manager at the International University, the biggest private university in Germany and in 2023 at bex as Head of Engineering. Both challenges turned out not to work for me.
 
-We are living in Hamburg Marienthal, my two kids are now 16 (female) and 11 (male) and they both attend school. My wife is an ex-project manager at DER SPIEGEL and is now a freelance artist focusing on textile art. She is an award-winning costume creator and works from home to give our kids and family a firm base until the kids leave our nest. She is my partner in crime and since we met we worked on social projects and other interesting ideas about the world we live in today. For example, we attend the CCC hacker conferences together. 
+We are living in Hamburg Marienthal, my two kids are now 17 (female) and 12 (male) and they both attend school. My wife is an ex-project manager at DER SPIEGEL and is now a freelance artist focusing on textile art. She is an award-winning costume creator and works from home to give our kids and family a firm base until the kids leave our nest. She is my partner in crime and since we met we worked on social projects and other interesting ideas about the world we live in today. For example, we attend the CCC hacker conferences together. 
 
 I am writing this so detail, because there are some key takeaways, that I want you to see:
 
@@ -103,8 +103,6 @@ Many things have been written about "work-life-balance". I don't believe in "wor
 
 ![](img/work-life-balance.jpg)
 
-
-
 # my vision
 
 > My vision is to make everybody's work a better place by bringing awareness.
@@ -149,7 +147,6 @@ Your career is yours. You know best how you’d like to grow and in what areas. 
 I’ll do my best to provide growth and learning opportunities, it’ll be up to you to seize them. Let’s work together on this.
 
 At the end of the day, it is your career. You set your goals. You set your priorities. Let me know how I can help you achieve them.
-
 
 ## feedback
 
@@ -210,7 +207,7 @@ You can also try to text me outside of office hours and at the weekend. However,
 
 ## getting things done
 
-I try to apply the GTD methodology to organize my work. You don't have to know, what that actually is. However, one thing you will experience is, that I will only read my emails twice a day (I try around 10.00 and 15.00 o'clock, but times may vary depending on my calendar). In case you are interested in this methodology, I suggest you the following videos: [Getting Things Done (GTD) by David Allen - Animated Book Summary And Review](https://www.youtube.com/watch?v=gCswMsONkwY), [Getting in control and creating space | David Allen](https://www.youtube.com/watch?v=kOSFxKaqOm4), [The Art of Stress-Free Productivity: David Allen at TEDxClaremontColleges](https://www.youtube.com/watch?v=CHxhjDPKfbY).
+I try to apply the GTD methodology to organize my work. You don't have to know, what that actually is. However, one thing you will experience is, that I will only read my emails twice a day (I try around 10.00 and 15.00 o'clock, but times may vary depending on my calendar). In case you are interested in this methodology, I suggest you the following videos: [Getting Things Done (GTD) by David Allen - Animated Book Summary And Review](https://www.youtube.com/watch?v=gCswMsONkwY), [Getting in control and creating space by David Allen](https://www.youtube.com/watch?v=kOSFxKaqOm4), [The Art of Stress-Free Productivity: David Allen at TEDxClaremontColleges](https://www.youtube.com/watch?v=CHxhjDPKfbY).
 
 If you have further questions or want to apply it for yourself, please approach me.
 
