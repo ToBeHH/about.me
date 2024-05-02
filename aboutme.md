@@ -252,9 +252,6 @@ I don't think this is something you need to take care of, just something you nee
 
 Like in many things in life, there's a long scale between introversion and extroversion. I definitely am more on the introverted side, which luckily does not mean I am anti-social. It just means I enjoy observing more than speaking.
 
-## depression
-I had a depression/burnout phase some years ago, even with clinical treatment. Since then, I've done some thorough work on it and have found a balanced way to deal with it by implementing practices in mindfulness, self-reflection, healthy nutrition, and regular sports (running) into my daily life. I am mentioning this because I want to be open about it and encourage others to do the same. I believe this has made me the empathic and tolerant person I am today. Depression is largely genetic and is also the reason, why I am so honest with other people. (The keyword here is: neurodiversity (which also includes Asperger, Autism, Triple-X, Depression, etc.) - in addition to gender diversity.) It is nothing to be ashamed of. Today we, fortunately, live in an open-minded time where there is a lot of appreciation for the virtues neurodiverse people have.
-
 ## biased toward action
 I strongly dislike long discussions. I merely like to start quickly and iterate on the results. However, I know that, especially in a team, it is highly valuable to discuss things first. If I am biased toward action too much, please tell me (and stop me).
 
@@ -271,9 +268,11 @@ I am very interested in hardware and - if I have some time, I try to tinker stuf
 
 I like traveling a lot. I have been to more than 50 countries by now. The rate of exploring new countries dropped significantly as I got kids. But we are about to ramp it up again. Since my wife is a frequent traveler with a huge, worldwide network too, and the kids seem to have picked up on our joy to exploring places and cultures (by mostly staying with locals instead of hotels).
 
-I run half marathons. Sometimes I run around the Alster lake during lunchtime. You're welcome to join me on that. I don't run fast (around 7 minutes/km), I run for fun.
+I run. I don't run fast (around 7 minutes/km) and typically around 5km. I mainly run to keep myself fit and healthy. However, I also ran two half marathons. They require special training in most likely you will hear me talking about it, when the next half marathon is coming up.
 
 I do a lot of photography. However, I hardly use my DSLR anymore and do mostly all my photos with my mobile phone (which I choose by the camera quality). I publish my photos on [Instagram](https://www.instagram.com/schulzhess/).
+
+I sail. I have the license to sail small boats close to the coast and on lakes (for those who know: SBS Binnen und See, Motor und Segel) and my plan is to make the next license soon (SKS), but it requires to proof some experience. If you happen to be in Hamburg and the weather allows it (wind with 3 bft), I am more than happy to invite you on a sail trip on the Alster lake.
 
 # caveat
 
