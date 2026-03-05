@@ -7,7 +7,7 @@ This document is intended to give you a clear understanding of me, what my value
 This document only applies to me and, in no way, should be considered to apply to any other team or manager. 
 
 # biographic facts
-I was born in December 1973 in a town called [Bamberg](https://en.wikipedia.org/wiki/Bamberg), which actually is very beautiful and makes me being at life level 0x32 (or for non-tech people: 50). My family runs a company there since 1677 (for 10 generations), which is now run by my brother. The company is in the beer industry, that's why I am pretty interested in beer culture (in addition to drinking it).
+I was born in December 1973 in a town called [Bamberg](https://en.wikipedia.org/wiki/Bamberg), which actually is very beautiful and makes me being at life level 0x34 (or for non-tech people: 52). My family runs a company there since 1677 (for 10 generations), which is now run by my brother. The company is in the beer industry, that's why I am pretty interested in beer culture (in addition to drinking it).
 
 After finishing gymnasium (high school), I immediately moved to [Karlsruhe](https://en.wikipedia.org/wiki/Karlsruhe) to study computer science. I am pretty proud that I actually got myself a place at that university before I finished my Abitur (high school final exams). Back then, Karlsruhe used (and still is) one of the best universities in Germany to study computer science and put a strong focus on mathematics (I actually studied together with the mathematicians), algorithms, and theories. 
 
@@ -24,9 +24,9 @@ As my second child was born I took a one-year parental leave. During that time I
 
 In February 2018 I joined XING as a team lead for the Spiderman team, aka ProBusiness. Since 2019 I additionally lead the ProJobs team, which was created newly (or: re-created) and my main job is to ramp up the team. In 2020 the ProJobs team was merged with the Spiderman team into the ProDucks team. In 2021, management decided to re-create ProJobs and put a completely new team on it, leaving me with ProBusiness product. In 2022 the ProBusiness product was also discontinued. My team then created the company culture assessment, a nice tool where you can configure your ideal company culture and XING finds matching companies for you (using the data from Kununu). However, this breaking point was for me a sign to move on.
 
-So at the end of 2022, I started a new career as an Engineering Manager at the International University, the biggest private university in Germany and in 2023 at bex as Head of Engineering. Both challenges turned out not to work for me.
+So at the end of 2022, I started a new career as an Engineering Manager at the International University, the biggest private university in Germany and in 2023 at bex as Head of Engineering. Both challenges turned out not to work for me. That's why I turned to consulting and started in 2024 as a consultant and trainer for PROTOS, a small tech consulting in Berlin with mainly German enterprise customers. I focus mainly on cloud consulting in the AWS environment.
 
-Me and my family are living in Hamburg Marienthal, my two kids are now 17 (female) and 12 (male) and are partly in school and partly in a gap year (FÖJ). My wife is an ex-project manager at DER SPIEGEL and is now a freelance artist focusing on textile art. She is an award-winning costume creator and works from home to give our kids and family a firm base until the kids leave our nest. She is my partner in crime, and since we met we worked on social projects and other interesting ideas about the world we live in today. For example, we attend the CCC hacker conferences together. 
+Me and my family are living in Hamburg Marienthal, my two kids are now 19 (female) and 14 (male) and are partly in school and already on their own. My wife is an ex-project manager at DER SPIEGEL and is now a freelance artist focusing on textile art. She is an award-winning costume creator and works from home to give our kids and family a firm base until the kids leave our nest. She is my partner in crime, and since we met we worked on social projects and other interesting ideas about the world we live in today. For example, we attend the CCC hacker conferences together. 
 
 I am writing this in such detail because there are some key takeaways, that I want you to see:
 
@@ -43,7 +43,7 @@ Let me go into more detail:
 
 ## people management
 
-I see part of my job (actually the biggest part) in supporting you, mainly on two levels: the administrative and the personal.
+I see part of my job (actually the biggest part) in supporting you, mainly on two levels: the administrative and the personal side.
 
 On the administrative side, if you have trouble with some processes, I am very willing to help you. The processes are in place for a good reason, but still, they might not cover all cases. Especially when it comes to vacations, **I will assume that you have asked your teammates** if it is ok for them. I will grant any vacation request as long as you still have enough days left.
 
@@ -197,7 +197,7 @@ You can approach me at any time, except when I am in focus mode. **You don't hav
 
 Some weeks, my schedule can be pretty full. On other weeks, it's not so bad. If you need to chat, you have a few options.
 
-1. Snag me at my desk. An important thing to know about me: if I have headphones on, it does not mean I am "in the zone" or expect not to be interrupted (I'm probably just enjoying some music). Feel free to grab my attention (preferably by waving in my periphery or tapping my desk—I get a little startled sometimes if someone unexpectedly taps me 😐) If I'm about to have to run off for a meeting or somesuch, I'll let you know and figure out a better time to chat. If I am in focus mode, I will have a red light on - please approach me at a later time or set up a small meeting (see below).
+1. Snag me at my desk. An important thing to know about me: if I have headphones on, it does not mean I am "in the zone" or expect not to be interrupted (I'm probably just enjoying some music). Feel free to grab my attention (preferably by waving in my periphery or tapping my desk — I get a little startled sometimes if someone unexpectedly taps me 😐) If I'm about to have to run off for a meeting or somesuch, I'll let you know and figure out a better time to chat. If I am in focus mode, I will have a red light on - please approach me at a later time or set up a small meeting (see below).
 2. Write to me. Even if you want an in-person meeting, message me to let me know you want to talk, and I'll make time. If you would rather discuss something over email or message, that's fine too. If I am in focus mode, I will have a red circle next to my status icon. I will not respond during that time; please try again later or wait a little time.
 3. Throw something on my calendar. I am also a big fan of lunch dates. My calendar is well-kept, please try to find an open spot there. I know there are times when there are countless meetings, but there are also times when there are very few. If you cannot find an open spot, please approach me, e.g. via Slack/Teams.
 
@@ -213,7 +213,7 @@ If you have further questions or want to apply it for yourself, please approach 
 
 ## work hours
 
-My usual work hours are from 9 a.m. to 6 p.m. Approaching me outside those hours requires some luck to make me respond. Most of those restrictions are set by my life outside work (mainly my family), and since I want to value their time as well, I will only answer if I don't steal the time from somebody else. 
+My usual work hours are from 8 a.m. to 5 p.m. Approaching me outside those hours requires some luck to make me respond. Most of those restrictions are set by my life outside work (mainly my family), and since I want to value their time as well, I will only answer if I don't steal the time from somebody else. 
 
 For that reason, I may work during strange hours, e.g. on the weekend or late at night. This is my personal choice due to my current life situation. I don't expect you to do the same nor to answer quickly during those off-hours. 
 
@@ -264,7 +264,7 @@ When you need to ask me to do something, ask me. I respond incredibly well when 
 
 # hobbies
 
-I am very interested in hardware and - if I have some time, I try to tinker stuff with an Arduino. Please approach me if you are interested in that. I also love to attend the CCC conferences with my wife and kids.
+I am very interested in hardware and - if I have some time, I try to tinker stuff with an ESP32. Please approach me if you are interested in that. I also love to attend the CCC conferences with my wife and kids.
 
 I like traveling a lot. I have been to more than 50 countries by now. The rate of exploring new countries dropped significantly as I got kids. But we are about to ramp it up again. Since my wife is a frequent traveler with a huge, worldwide network too, and the kids seem to have picked up on our joy to exploring places and cultures (by mostly staying with locals instead of hotels).
 
